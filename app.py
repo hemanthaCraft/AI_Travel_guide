@@ -115,5 +115,3 @@ def generate_audio_guide():
         "description": text_description,
         "audioBase64": encoded_audio
                 }
-
-app.run(debug=True)
